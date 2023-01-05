@@ -1,7 +1,7 @@
-const APIKEY = '000000000000000000000000000000000000000' //replace the 0s with your AC API Key (e.g. 96ffd43f404e4b10ac701580d68f41c59ff7e9ad56f60f8.....)
-const APIURL = '11111111111111111'  //replace the 1s with your Active Campaign API URL (e.g https://acurl.api-us1.com)
-const EVENTKEY = '222222222222222222222'  //replace the 2s with your ActiveCampaign Event Key (e.g. ce450728b48c2e5568e01e38ca1f5b069)
-const ACTID = '333333333333333' //repalce the 3s with your AciveCampaign ID (e.g. 251578439)
+const APIKEY = '10d1e0372a9a780e94df682d0ae633949425ec44da1c614a563fda780f677a0db97c1d2e' //replace the 0s with your AC API Key (e.g. 96ffd43f404e4b10ac701580d68f41c59ff7e9ad56f60f8.....)
+const APIURL = 'https://retireright.api-us1.com'  //replace the 1s with your Active Campaign API URL (e.g https://acurl.api-us1.com)
+const EVENTKEY = 'abdfe64fc6809e15c2b7e1193c293195eab34e37'  //replace the 2s with your ActiveCampaign Event Key (e.g. ce450728b48c2e5568e01e38ca1f5b069)
+const ACTID = '27981440' //repalce the 3s with your AciveCampaign ID (e.g. 251578439)
 
 
 const axios = require('axios')
